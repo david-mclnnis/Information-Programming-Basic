@@ -4,12 +4,10 @@
 - 정보분야의 프로그래밍을 Basic, Normal, Hard 의 난이도로 나누고 그 중 Basic에 대한 내용을 정리한 것  
 - 컨스트럭팅의 기초인 [ Constructing-Basic ] 과 연계되어 학습 되야 함  
 
-```
 # 노트별 단계  
 1단계. [프로그래밍-기초 : Programming-Basic](./README.md)  
 2단계. 프로그래밍-기본 : Programming-Normal  
 3단계. 프로그래밍-응용 : Programming-Hard  
-```
 
 ---
 
