@@ -1,6 +1,6 @@
 ⚒ 프로그래밍-기초 : Programming-Basic 
 ===
-##### [ 메뉴 ] [프로그래밍-기초](../README.md)
+##### [ 메뉴 ] [프로그래밍-기초](./README.md)
 
 # 📌 들어가기
 - 정보분야의 프로그래밍을 Basic, Normal, Hard 의 난이도로 나누고 그 중 Basic에 대한 내용을 정리한 것  
