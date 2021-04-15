@@ -6,7 +6,7 @@
 
 ```
 # 노트별 단계  
-1단계. 프로그래밍-기초 : Programming-Basic  
+1단계. [프로그래밍-기초 : Programming-Basic](./README.md)  
 2단계. 프로그래밍-기본 : Programming-Normal  
 3단계. 프로그래밍-응용 : Programming-Hard  
 ```
